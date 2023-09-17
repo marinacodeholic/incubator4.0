@@ -5,8 +5,8 @@
   "author": "marinacodeholic",
   "license": "MIT",
   "scripts": {
-    "dev1": "yarn nodemon --inspect dist/src/index1.js",
-    "watch1": "tsc -w",
+    "dev2": "yarn nodemon --inspect dist/src/index1.js",
+    "watch2": "tsc -w",
     "test-e2e": "jest --runInBand --detectOpenHandles --forceExit --config ./__tests__/jest-e2e.config.js"
   },
   "dependencies": {
